@@ -1,0 +1,5 @@
+rotate_90:
+    time_to_rotate: 5
+
+rotate_45:
+    time_to_rotate: 2
